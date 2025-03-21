@@ -5,7 +5,7 @@ function updateTime() {
 }
 setInterval(updateTime, 1000);
 
-function openChat(https://grok.com/share/bGVnYWN5_ee74b43a-813f-4e3d-96d7-72fb4f7d2f7e) {
+function openChat() {
     // Redirect to this chat (replace with actual link if hosted)
     window.location.href = "https://your-chat-link.com"; // Placeholder
 }
